@@ -1,0 +1,19 @@
+{
+  "name": "emanuelpessoa",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "javascript/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emanuelpessoaa/emanuelpessoa.git"
+  },
+  "author": "Emanuel Pessoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emanuelpessoaa/emanuelpessoa/issues"
+  },
+  "homepage": "https://github.com/emanuelpessoaa/emanuelpessoa#readme"
+}
